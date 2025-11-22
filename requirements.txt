@@ -19,3 +19,6 @@ b2sdk==1.21.0
 
 email-validator==2.1.1
 typing_extensions>=4.12.2
+
+boto3==1.35.57
+botocore==1.35.57
